@@ -2,6 +2,8 @@
 
 A Smoothed Particle Hydrodynamics (SPH) fluid simulation implemented in Rust using the Bevy game engine. The simulation includes airfoil aerodynamics and real-time visualization capabilities. I built this to test Bevy's parallel processing capabilities.
 
+![Demo](assets/sph.gif)
+
 ## Features
 
 - Real-time SPH fluid simulation
