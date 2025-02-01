@@ -26,7 +26,7 @@ A Smoothed Particle Hydrodynamics (SPH) fluid simulation implemented in Rust usi
 Clone the repository and build with Cargo:
 
 ```bash
-git clone https://github.com/yourusername/bevy-sph
+git clone https://github.com/AOS55/bevy-sph
 cd bevy-sph
 cargo build --release
 ```
