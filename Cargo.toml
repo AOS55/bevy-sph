@@ -5,6 +5,7 @@ edition = "2021"
 description = "A Smoothed Particle Hydrodynamics (SPH) simulation using Bevy"
 authors = ["Alexander Quessy alexander@quessy.io"]
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/AOS55/bevy-sph"
 
 [dependencies]
 bevy = "0.15"
